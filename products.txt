@@ -1,0 +1,4 @@
+1,Laptop,999.99,10
+2,Smartphone,699.99,5
+3,Headphones,49.99,18
+4,Keyboard,29.99,15
