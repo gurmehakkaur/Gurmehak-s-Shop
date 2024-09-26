@@ -54,4 +54,4 @@ Importantly, I created this project to showcase my skills in Object Oriented Pro
 ### How to Run the Application
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/gurmehakkaur/Gurmehak-s-Shop
