@@ -53,5 +53,17 @@ Importantly, I created this project to showcase my skills in Object Oriented Pro
 
 ### How to Run the Application
 1. Clone this repository:
-   ```bash
+   
    git clone https://github.com/gurmehakkaur/Gurmehak-s-Shop
+
+2. Navigate to the project directory:
+
+   cd Gurmehak-s-Shop
+
+3. Compile the Java files:
+
+   javac *.java
+
+4. Run the application:
+
+   java MainClass
