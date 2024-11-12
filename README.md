@@ -1,4 +1,5 @@
 ## Shopping Console App
+![image](https://github.com/user-attachments/assets/edfb40ac-a8ad-41aa-bade-03eb7628e6f2)
 
 # Overview
 I created a website for a fictional store "Gurmehak's Shop", allowing users to view available products, put required items into cart, apply membership discount 
